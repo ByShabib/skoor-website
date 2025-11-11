@@ -1,4 +1,4 @@
-# Skoor Website
+# Scores Hub Website
 
 Public website files for App Store submission (Privacy Policy and Support pages).
 
